@@ -15,6 +15,7 @@
 - akan tampil qrcode pada terminal lalu scan
 - Proses mengirim dimulai
 
+- Optional Visit : https://www.npmjs.com/package/wbm
 
 > Module :
 
