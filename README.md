@@ -8,7 +8,8 @@
 > STEP  :
 
 - Clone atau Download repository ini
-- jalankan `npm install`
+- jalankan `npm install` atau
+- `npm install wbm` dan `npm install convert-excel-to-json`
 - isikan nomor pada file excell
 - jalankan `node index.js`
 - akan tampil qrcode pada terminal lalu scan
