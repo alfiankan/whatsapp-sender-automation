@@ -2,6 +2,9 @@
 > Kirim pesan whatsapp langsung ke banyak nomor dengan Node JS
 > Feature => data dari Excell (.xlsx)
 
+<br>
+<img src="demo.png" />
+
 > STEP  :
 
 - Clone atau Download repository ini
