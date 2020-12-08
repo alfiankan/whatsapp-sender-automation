@@ -3,7 +3,7 @@
 > Feature => data dari Excell (.xlsx)
 
 <br>
-<img src="demo.png" />
+<img src="demo1.png" />
 
 > STEP  :
 
